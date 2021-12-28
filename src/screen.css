@@ -4,3 +4,28 @@
 .container, .content {
 width: 100%;
 }
+h1{
+    color: darkcyan;
+}
+.row{
+    width: 100%;
+    display: block;
+    border: 1px solid;
+    margin: 5px
+}
+.col{
+    display: inline-block;
+    width: 35%;
+    margin: 30px;
+    height: 100%;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.my-list{
+    position: absolute;
+    top: 0;
+}
+
